@@ -24,9 +24,14 @@ This project implements a **car and bike marketplace** (inspired by PakWheels) u
 
 ---
 
-## 🖼️ Program Output Screenshots
+## 🖼️ Website Screenshots
 
-> *(Screenshots of program output go here — run main.cpp and paste terminal screenshots)*
+> <img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/0ec07f55-b805-49bb-a504-7e6d2feb9506" />
+<img width="363" height="829" alt="image" src="https://github.com/user-attachments/assets/394362d9-02fd-4bbf-86e6-8e065778ea4f" />
+<img width="386" height="671" alt="image" src="https://github.com/user-attachments/assets/96e884ff-8247-470e-a7e8-2434ee46dd26" />
+
+
+
 
 ---
 
